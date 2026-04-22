@@ -1,6 +1,6 @@
 # All Restaurants in Greater Detroit Area (Metro), Michigan, US
 
-> Free BeamStation sample export with 819 rows and masked direct-contact fields.
+> Free BeamStation sample export with 677 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `482151` |
 | Location | Detroit-Warren-Dearborn, MI |
 | Category | Restaurants |
-| Full dataset size | 8,194 records |
-| Free sample size | 819 records (10.0%) |
-| Last export | 2026-04-14T21:22:57.768764+00:00 |
+| Full dataset size | 6,775 records |
+| Free sample size | 677 records (9.99%) |
+| Last export | 2026-04-21T23:56:12.127486+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-greater-detroit-area-metro-michigan-us-sample-482151/releases/download/sample-latest/beamstation_482151_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
