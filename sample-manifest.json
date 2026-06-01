@@ -1,12 +1,12 @@
 {
-  "export_job_id": "0e139153-4d30-4531-baff-187088e55d59",
+  "export_job_id": "bed27095-1a83-4ba3-adbd-222de32caf73",
   "id_short": 482151,
-  "published_at": "2026-04-29T07:31:37Z",
+  "published_at": "2026-06-01T05:08:37Z",
   "repo_name": "all-restaurants-in-greater-detroit-area-metro-michigan-us-sample-482151",
   "sample_asset_name": "beamstation_482151_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/482151/beamstation_482151_restaurants-us-detroitwarrendearbornmi_SAMPLE_DIST.csv",
-  "sample_records": 824,
-  "sample_sha256": "bf5822458af828ced762da9dddc72695c604eaad138c192eeedd22c17110a407",
-  "sample_size_bytes": 2778362,
-  "total_records": 8240
+  "sample_records": 846,
+  "sample_sha256": "778e489964b3cd0482cb2d3166166b7c6a2972d373167b7ba9dbcd70f2618fd3",
+  "sample_size_bytes": 3010388,
+  "total_records": 8462
 }
